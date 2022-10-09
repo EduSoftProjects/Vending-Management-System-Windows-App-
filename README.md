@@ -23,8 +23,9 @@
   <li>Graphics Card: Intel UHD or any NVidia/AMD graphics</li>
   <li>Mouse and Keyboard</li>
   <li>Internet Connection</li>
+  <li>Java JDK 17+ (Automatically installed trought the installer)</li>
 </ul>
 
-<h1><a href="https://drive.google.com/file/d/1bQyp6LxkVn-SvR7WtVjGPSrRPPNnrtiu/view?usp=sharing">DOWNLOAD HERE!</a></h1>
+<h1 align="center"><a href="https://drive.google.com/file/d/1bQyp6LxkVn-SvR7WtVjGPSrRPPNnrtiu/view?usp=sharing">DOWNLOAD HERE!</a></h1>
 
 <p align="center">Feel free to contact for support! Thank you!</p>
