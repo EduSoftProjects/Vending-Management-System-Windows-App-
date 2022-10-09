@@ -1,7 +1,7 @@
 # Vending Management System (WindowsApp)
-<h3>Before you start</h1>
+<h3>Before you start</h3>
 <p>This page relates to the intalattion of Vending Management Systems!</p>
-<p>If you want to have access to the source code of the program or know more about the project, click <a href="www.google.pt">here</a>,</p>
+<p>If you want to have access to the source code of the program or know more about the project, click <a href="www.google.pt">here</a>.</p>
 
 <br><br>
 
@@ -13,7 +13,7 @@
 <p>This software comes with everything you need to operate in order conditions.<p>
 
 <h3>Before you install</h3>
-<p>Please make sure you have a computer that meets the <a href="#Systems-Requirements">systems requirements</a> to ensure the software runs without any problem</p>
+<p>Please make sure you have a computer that meets the <a href="#Systems Requirements">systems requirements</a> to ensure the software runs without any problem</p>
 ## Systems Requirements
 <p>This are the systems requirements to run Vending Managemet Systems perfectly: </p>
 <ul>
