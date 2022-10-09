@@ -13,7 +13,7 @@
 <p>This software comes with everything you need to operate in order conditions.</p>
 
 <h3>Before you install</h3>
-<p>Please make sure you have a computer that meets the <a href="#systems-requirements)">systems requirements</a> to ensure the software runs without any problem</p>
+<p>Please make sure you have a computer that meets the <a href="#systems-requirements">systems requirements</a> to ensure the software runs without any problem</p>
 <h4>Systems Requirements</h4>
 <p>This are the systems requirements to run Vending Managemet Systems perfectly: </p>
 <ul>
@@ -25,4 +25,4 @@
   <li>Internet Connection</li>
 </ul>
 
-<p>Feel free to contact for support! Thank you</p>
+<p align="center">Feel free to contact for support! Thank you!</p>
