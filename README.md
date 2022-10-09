@@ -14,7 +14,7 @@
 
 <h3>Before you install</h3>
 <p>Please make sure you have a computer that meets the <a href="#Systems Requirements">systems requirements</a> to ensure the software runs without any problem</p>
-## Systems Requirements
+<h4>Systems Requirements</h4>
 <p>This are the systems requirements to run Vending Managemet Systems perfectly: </p>
 <ul>
   <li>CPU: 1.3GHz Intel Core i3 2nd Gen / AMD Ryzen 2Gen Processor or above </li>
