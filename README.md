@@ -25,4 +25,6 @@
   <li>Internet Connection</li>
 </ul>
 
+<h1><a href="https://drive.google.com/file/d/1bQyp6LxkVn-SvR7WtVjGPSrRPPNnrtiu/view?usp=sharing">DOWNLOAD HERE!</a></h1>
+
 <p align="center">Feel free to contact for support! Thank you!</p>
