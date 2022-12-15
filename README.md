@@ -14,7 +14,7 @@
 <p>If you are having trouble managing your vending machines storage supply, this softwares makes things just easier. Manage products, stores, employers and more in one place. Also this software comes with a front-end ticket system to help monetorate problems related from your stores.</p>
 
 <h3>Before you install</h3>
-<p>Please make sure you have a computer that meets the <a href="#systems-requirements">systems requirements</a> to ensure the software runs without any problem</p>
+<p>Please make sure you have a computer that meets the <a href="#systems-requirements">Systems Requirements</a> to ensure the software runs without any problem.</p>
 <h4>Systems Requirements</h4>
 <p>This are the systems requirements to run Vending Managemet Systems perfectly: </p>
 <ul>
