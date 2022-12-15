@@ -1,7 +1,7 @@
 # Vending Management System (WindowsApp)
-<h3>Before you start</h3>
-<p>This page relates to the intalattion of Vending Management Systems!</p>
-<p>If you want to have access to the source code of the program or know more about the project, click <a href="www.google.pt">here</a>.</p>
+<h3>DISCLAMER</h3>
+<p>This page relates to the intalattion of Vending Management Systems on Windows!</p>
+<p>If you want to have access to the source code of the program or know more about the project, the link will be here soon.</p>
 
 <br><br>
 
@@ -11,6 +11,7 @@
 
 <h4>A easy way to deploy the software around your business!</h4>
 <p>This software comes with everything you need to operate in order conditions.</p>
+<p>If you are having trouble managing your vending machines storage supply, this softwares makes things just easier. Manage products, stores, employers and more in one place. Also this software comes with a front-end ticket system to help monetorate problems related from your stores.</p>
 
 <h3>Before you install</h3>
 <p>Please make sure you have a computer that meets the <a href="#systems-requirements">systems requirements</a> to ensure the software runs without any problem</p>
